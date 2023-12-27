@@ -1,11 +1,12 @@
 #ifndef BSMODEL_CPP
 #define BSMODEL_CPP
 
-#include"BSmodel.h"
 #include <iostream>
 #include <vector>
 #include <random>
 #include <cmath>
+
+#include "BSmodel.hpp"
 
 // Constructors
 

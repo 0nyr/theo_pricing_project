@@ -2,7 +2,7 @@
 #define OPTION_H
 
 #include <iostream>
-#include "BSmodel.h"
+#include "BSmodel.hpp"
 
 class Option{
 

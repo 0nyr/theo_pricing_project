@@ -1,7 +1,8 @@
-#include "example/Example.hpp"
-#include "example/BSmodel.hpp"
-
 #include <iostream>
+
+#include "example/Example.hpp"
+#include "BSmodel.hpp"
+#include <Option.hpp>
 
 int main(int argc, char** argv)
 {
@@ -19,7 +20,7 @@ int main(int argc, char** argv)
     example.hello();
 
     // code ami matthieu
-    EuroCall call(2.0,40.0);
+    EuroCall call(2.0, 40.0);
 
     return 0;
 }

@@ -14,7 +14,7 @@
     devShell.x86_64-linux = nixpkgs.legacyPackages.x86_64-linux.mkShell {
       buildInputs = with nixpkgs.legacyPackages.x86_64-linux; [
         gcc
-        make
+        gnumake
       ];
     };
   };

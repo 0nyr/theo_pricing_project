@@ -4,8 +4,8 @@
 #include <cmath>
 #include <iostream>
 #include <algorithm>
-#include "Option.h"
-#include "BSmodel.h"
+#include "Option.hpp"
+#include "BSmodel.hpp"
 
 using namespace std;
 
